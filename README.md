@@ -33,7 +33,6 @@ ___
   <img alt="python" width="40px" src="./icons/Python-Light.svg" />
   <img alt="nodejs" width="40px" src="./icons/NodeJS-Light.svg" />
   <img alt="express" width="40px" src="./icons/ExpressJS-Light.svg" />
-  <img alt="fastapi" width="40px" src="./icons/FastAPI.svg" />
   <img alt="git" width="40px" src="./icons/Git.svg" />
   <img alt="mongodb" width="40px" src="./icons/MongoDB.svg" />
   <img alt="postgresql" width="40px" src="./icons/PostgreSQL-Light.svg" />
