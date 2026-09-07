@@ -3,12 +3,6 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **Web development,Front-End Development**
-
-- 📫 How to reach me **raphaelokeke002@gmail.com**
-
-- ⚡ Fun fact **I code daily**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/r0ktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r0ktech" height="30" width="40" /></a>
